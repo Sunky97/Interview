@@ -1,4 +1,5 @@
 # 자료구조
+🔖 Contents
 - [Array](#Array)
 - [LinkedList](#LinkedList)
 - [HashTable](#HashTable)
@@ -6,8 +7,8 @@
 - [Queue](#Queue)
 - [Grape](#Grape)
 - [Tree](#Tree)
-- [Binary Heap](#Binary%20Heap)
-- [Red-Black Tree](#Red-Black%20Tree)
+- [Binary Heap](#Binary-Heap)
+- [Red-Black Tree](#Red-Black-Tree)
 
 <hr>
 
