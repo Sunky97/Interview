@@ -21,7 +21,7 @@
 <hr>
 
 # 1. 📖 **자료구조**
-[바로가기](https://github.com/Sunky97/Interview/blob/main/Data%20Structure/README.md)
+🔍 [바로가기](https://github.com/Sunky97/Interview/blob/main/Data%20Structure/README.md)
 - Array
 - LinkedList
 - HashTable
@@ -33,7 +33,7 @@
 - Red-Black Tree
 
 # 2. 📖 **네트워크**
-[바로가기]()
+🔍 [바로가기](https://github.com/Sunky97/Interview/blob/main/Network/README.md)
 - OSI 7계층
 - TCP/IP 개념
 - TCP 와 UDP
@@ -43,14 +43,14 @@
 - REST 와 RESTful
 - 소켓(Socket)이란
 # 3. 📖 **OS**
-[바로가기]()
+🔍 [바로가기](https://github.com/Sunky97/Interview/blob/main/OS/README.md)
 - 프로세스(Process)와 스레드(Thread)
 - 동기와 비동기
 - 데드락(Deadlock)
 - 메모리 관리 전략
 - 스케줄러
 # 4. 📖 **데이터베이스**
-[바로가기]()
+🔍 [바로가기](https://github.com/Sunky97/Interview/blob/main/DATABASE/README.md)
 - 데이터베이스를 사용하는 이유
 - Index
 - 정규화에 대해서
@@ -63,12 +63,12 @@
 - inner join & outter join
 - Java JDBC
 # 5. 📖 **디자인 패턴**
-[바로가기]()
+🔍 [바로가기](https://github.com/Sunky97/Interview/blob/main/Design%20pattern/README.md)
 - 디자인 패턴이란?
 - Singleton 패턴
 - MVC1 와 MVC2
 # 6. 📖 **Java**
-[바로가기]()
+🔍 [바로가기](https://github.com/Sunky97/Interview/blob/main/Java/README.md)
 - Java 프로그래밍이란
 - Java 와 C 의 차이점
 - Java 언어의 장단점
@@ -99,11 +99,11 @@
 - GC 란?
 - GC 의 장점
 # 7. 📖 **JavaScript**
-[바로가기]()
+🔍 [바로가기](https://github.com/Sunky97/Interview/blob/main/JavaScript/README.md)
 - DOM
 - Ajax
 # 8. 📖 **Spring**
-[바로가기]()
+🔍 [바로가기](https://github.com/Sunky97/Interview/blob/main/Spring/README.md)
 - 스프링 프레임 워크란?
 - Bean 이란?
 - IOC 란?
@@ -113,15 +113,15 @@
 - AOP 란?
 - 필터(Filter)와 인터셉터(Interceptor) 차이
 # 9. 📖 **알고리즘**
-[바로가기]()
+🔍 [바로가기](https://github.com/Sunky97/Interview/blob/main/Algorithm/README.md)
 - 정렬 알고리즘 종류
 # 10. 📖 **Security**
-[바로가기]()
+🔍 [바로가기](https://github.com/Sunky97/Interview/blob/main/Security/README.md)
 - 대칭키와 비대칭키
 - CSRF 공격
 - OAuth
 # 11. 📖 **ETC**
-[바로가기]()
+🔍 [바로가기](https://github.com/Sunky97/Interview/blob/main/ETC/README.md)
 - 사용자가 www.naver.com 에 접속했을때 일어나는 현상
 - 프레임워크와 라이브러리의 차이
 - 애자일 방법론이란
