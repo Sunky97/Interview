@@ -21,7 +21,7 @@
 <hr>
 
 # 1. 📖 **자료구조**
-[바로가기]()
+[바로가기](https://github.com/Sunky97/Interview/blob/main/Data%20Structure/README.md)
 - Array
 - LinkedList
 - HashTable
