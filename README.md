@@ -122,7 +122,7 @@
 - OAuth
 # 11. 📖 **ETC**
 🔍 [바로가기](https://github.com/Sunky97/Interview/blob/main/ETC/README.md)
-- 사용자가 www.naver.com 에 접속했을때 일어나는 현상
+- 사용자가 www.naver.com 에 접속했을때
 - 프레임워크와 라이브러리의 차이
 - 애자일 방법론이란
 - Maven 과 Gradle 의 차이
