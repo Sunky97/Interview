@@ -36,9 +36,6 @@ public class Singleton {
         return instance;
     }
 
-    public void say() {
-        System.out.println("hi, there");
-    }
 }
 ```
 
