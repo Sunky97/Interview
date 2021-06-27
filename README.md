@@ -16,7 +16,7 @@
 8. [Spring](https://github.com/Sunky97/Interview#8--spring) ✅
 9. [알고리즘](https://github.com/Sunky97/Interview#9--%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 10. [Security](https://github.com/Sunky97/Interview#10--security)
-11. [ETC](https://github.com/Sunky97/Interview#11--etc)
+11. [ETC](https://github.com/Sunky97/Interview#11--etc) ✅
 
 <hr>
 
