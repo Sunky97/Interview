@@ -20,7 +20,7 @@
 - [오버로딩(Overloading)과 오버라이딩(Overriding)](#오버로딩(Overloading)과-오버라이딩(Overriding))
 - [Java Collection Framework](#Java-Collection-Framework)
 - [제네릭(Generic)](#제네릭(Generic))
-- ['==' 와 'equals()' 의 차이](#-와-'equals()'-의-차이)
+- ['==' 와 'equals()' 의 차이](#-와-equals-의-차이)
 - [자바에서 멀티스레드 구현방법](#자바에서-멀티스레드-구현방법)
 - [Stream 이란?](#Stream-이란?)
 - [Lambda란?](#Lambda란?)
